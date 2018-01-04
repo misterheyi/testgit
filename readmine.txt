@@ -1,2 +1,4 @@
 hello git
 hello world git
+hello new git
+hello git diff
